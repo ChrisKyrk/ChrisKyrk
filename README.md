@@ -1,4 +1,4 @@
-### Hi there 👋
+### JavaScript/TypeScript, C# / .NET, React, SQL 💻
 
 <!--
 **ChrisKyrk/ChrisKyrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
